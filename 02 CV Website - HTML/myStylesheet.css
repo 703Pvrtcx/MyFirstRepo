@@ -1,0 +1,41 @@
+body {
+  font-family: Arial;
+  padding: 10px;
+  background-image:
+}
+table, th, tr
+{
+  border: solid black;
+  background-color: white
+}
+
+/* Header/Blog Title */
+.header {
+  padding: 10px;
+  text-align: center;
+  background: limegreen;
+  font-size: 30px;
+}
+.formLogin {
+  padding: 10px;
+  text-align: center;
+  font-size: 15px;
+}
+.leftcolumn {
+  float: left;
+  width: 45%;
+}
+
+/* Right column */
+.rightcolumn {
+  float: right;
+  width: 55%;
+  background-color: #f1f1f1;
+  padding-left: 20px;
+}
+.card {
+  background-color: white;
+  border-radius: solid black;
+  padding: 10px;
+  margin-top: 50px;
+}
